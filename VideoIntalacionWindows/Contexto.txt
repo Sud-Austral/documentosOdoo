@@ -1,0 +1,1 @@
+Como solo se peuden subir archivos de hasta 100 MB se dividio en partes de 90 MB
