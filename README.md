@@ -2,7 +2,6 @@
 
 Para consumir contenido RSS y darle formato HTML automático:\
 https://rss.app/feed/JmFbsIWEWgNQ0AkA/embed\
-
 https://surfing-waves.com/feed.htm\
 
 *************************************************************
@@ -16,3 +15,6 @@ https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_ge
 
 II Understanding Automated Actions\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_automated_actions.html
+
+III Advanced Use Cases: Creating Models and Adding Fields\
+https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/models_fields.html
