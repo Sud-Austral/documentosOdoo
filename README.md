@@ -10,11 +10,11 @@ https://www.carbonfootprint.com/integrate.html
 
 # Curso Studio
 
-I Understanding General Concepts\
+I Conceptos generales\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_general.html
 
-II Understanding Automated Actions\
+II Acciones automatizadas\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_automated_actions.html
 
-III Advanced Use Cases: Creating Models and Adding Fields\
+III Creando Modelos y anadiendo Campos\
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/models_fields.html
