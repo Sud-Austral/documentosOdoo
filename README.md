@@ -11,5 +11,5 @@ https://www.carbonfootprint.com/integrate.html
 
 # Curso Studio
 
-I Understanding General Concepts
+I Understanding General Concepts\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_general.html
