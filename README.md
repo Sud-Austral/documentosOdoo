@@ -13,3 +13,6 @@ https://www.carbonfootprint.com/integrate.html
 
 I Understanding General Concepts\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_general.html
+
+II Understanding Automated Actions\
+https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_automated_actions.html
