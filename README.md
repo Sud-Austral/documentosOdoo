@@ -18,3 +18,7 @@ https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_au
 
 III Creando Modelos y anadiendo Campos\
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/models_fields.html
+
+
+IV Filtros y barra de status\
+https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/filters_status_bar.html
