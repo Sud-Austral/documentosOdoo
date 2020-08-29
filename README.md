@@ -8,8 +8,6 @@ cd "Program Files (x86)"\
 cd "Odoo 13.0"\
 cd server
 
-"C:\Program Files (x86)\Odoo 13.0\python\python.exe"
-
 C:\Program Files (x86)\Odoo 13.0\server>"C:\Program Files (x86)\Odoo 13.0\python\python.exe" odoo-bin -c odoo.conf
 
 ImportError: DLL load failed: %1 no es una aplicación Win32 válida.
