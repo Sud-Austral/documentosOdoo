@@ -8,13 +8,13 @@ cd "Program Files (x86)"\
 cd "Odoo 13.0"\
 cd server
 
-PAra levantar el servicio\
+Para levantar el servicio:\
 C:\Program Files (x86)\Odoo 13.0\server>"C:\Program Files (x86)\Odoo 13.0\python\python.exe" odoo-bin -c odoo.conf
 
 ImportError: DLL load failed: %1 no es una aplicación Win32 válida.\
 Hay que borrar el python de: C:\Users\usuario\AppData\Roaming\python
 
-Para construir un módulo\
+Para construir un módulo:\
 C:\Program Files (x86)\Odoo 13.0\server>"C:\Program Files (x86)\Odoo 13.0\python\python.exe" odoo-bin scaffold mi_segundo_proyecto "D:\addons"
 
 *************************************************************
