@@ -4,7 +4,7 @@
 
 cd "Program Files (x86)"\
 cd "Odoo 13.0"\
-cd server\
+cd server
 
 "C:\Program Files (x86)\Odoo 13.0\python\python.exe"
 
