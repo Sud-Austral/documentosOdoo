@@ -14,7 +14,7 @@ C:\Program Files (x86)\Odoo 13.0\server>"C:\Program Files (x86)\Odoo 13.0\python
 ImportError: DLL load failed: %1 no es una aplicación Win32 válida.\
 Hay que borrar el python de: C:\Users\usuario\AppData\Roaming\python
 
-Para construir un módulo
+Para construir un módulo\
 C:\Program Files (x86)\Odoo 13.0\server>"C:\Program Files (x86)\Odoo 13.0\python\python.exe" odoo-bin scaffold mi_segundo_proyecto "D:\addons"
 
 *************************************************************
