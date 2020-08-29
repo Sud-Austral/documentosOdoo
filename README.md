@@ -2,6 +2,8 @@
 
 ## Formulario
 
+C:\Users\usuario>cd ../..
+
 cd "Program Files (x86)"\
 cd "Odoo 13.0"\
 cd server
