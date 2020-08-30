@@ -10,6 +10,9 @@ Crear el nombre del modelo: di Request,
 
 2 Crear menús asociados a modelos.
 
+3 Configurar la herramienta de trabajo.
+
+
 *************************************************************
 ## Taller de creación de una DB en Odoo
 *************************************************************
