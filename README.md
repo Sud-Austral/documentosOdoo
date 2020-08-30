@@ -34,7 +34,7 @@ https://www.carbonfootprint.com/integrate.html
 I Conceptos generales\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_general.html
 
-II Acciones automatizadas\
+II Acciones automatizadas Introduccion\
 https://www.odoo.com/documentation/user/13.0/es/studio/concepts/understanding_automated_actions.html
 
 III Creando Modelos y anadiendo Campos\
@@ -43,7 +43,7 @@ https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/models_fields.h
 IV Filtros y barra de status\
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/filters_status_bar.html
 
-V Acciones automaticas Introduccion\
+V Acciones automaticas \
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/automated_actions.html
 
 VI Vistas\
