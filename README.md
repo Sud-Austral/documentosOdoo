@@ -9,7 +9,7 @@ Crear el nombre del modelo: di Request,
   CREATE YOUR APP y tenemos el CRUD sobre nuestra primera tabla listo!
 
 2 Crear menús asociados a modelos.
-Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias en los menus.
+Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
 
 
 3 Agregar campos a formularios
