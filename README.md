@@ -43,7 +43,7 @@ https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/models_fields.h
 IV Filtros y barra de status\
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/filters_status_bar.html
 
-V Acciones automaticas\
+V Acciones automaticas Introduccion\
 https://www.odoo.com/documentation/user/13.0/es/studio/use_cases/automated_actions.html
 
 VI Vistas\
