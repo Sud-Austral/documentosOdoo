@@ -30,6 +30,8 @@ Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias e
 4 Modelos
 
 5 Las relaciones entre los modelos
+5.1 Many2one
+5.2 One2many
 *************************************************************
 ## Formulario
 
