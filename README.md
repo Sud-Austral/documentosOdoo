@@ -11,7 +11,10 @@ Crear el nombre del modelo: di Request,
 2 Crear menús asociados a modelos.
 Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias en los menus.
 
-3 Configurar la plataforma de entrenamiento.
+
+3 Agregar campos a formularios
+
+4 Configurar la plataforma de entrenamiento.
 
 
 *************************************************************
