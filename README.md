@@ -1,6 +1,6 @@
 # Documentación Odoo
 *************************************************************
-## Taller STUDIO
+## Taller Studio
 
 1 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
