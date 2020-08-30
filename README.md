@@ -18,7 +18,7 @@ Construimos el modelo\
 ![](Model.PNG)\
 
 
-![](Studio1.PNG)\
+![](Studio2.PNG)\
 ************************************************************
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
