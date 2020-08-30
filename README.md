@@ -13,7 +13,7 @@ Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la 
 ![](Studio.PNG)\
 Siguiente
 
-![](Studio.PNG)\
+![](App.PNG)\
 
 ************************************************************
 Crear APP\
