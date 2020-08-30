@@ -29,7 +29,7 @@ Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias e
 
 4 Modelos
 
-5 LAs relaciones entre los modelos
+5 Las relaciones entre los modelos
 *************************************************************
 ## Formulario
 
