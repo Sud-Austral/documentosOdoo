@@ -6,6 +6,7 @@
 https://www.odoo.com/es_ES/
 
 Comienza ahora\
+Selecciona Accounting, Purchase, Inventory y Studio.
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
 
