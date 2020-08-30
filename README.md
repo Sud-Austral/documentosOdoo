@@ -24,6 +24,12 @@ Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias e
 1 Creación del módulo DataintAPP
 
 2 El modelo lógico de la BdeD a implementar
+
+3 El manifiesto
+
+4 Modelos
+
+5 LAs relaciones entre los modelos
 *************************************************************
 ## Formulario
 
