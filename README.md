@@ -6,7 +6,7 @@
 Odoo Studio, NEXT, materialdi001, NEXT
 
 Crear el nombre del modelo: di Request,
-  CREATE YOUR APP
+  CREATE YOUR APP y tenemos el CRUD sobre nuestra primera tabla listo!
 
 2 Crear menús asociados a modelos.
 
