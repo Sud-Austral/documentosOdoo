@@ -4,7 +4,6 @@
 
 1 
 https://www.odoo.com/es_ES/
-
 Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
 Continuar\
@@ -14,6 +13,7 @@ Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la 
 ![](Studio.PNG)\
 Siguiente
 
+![](Studio.PNG)\
 
 ************************************************************
 Crear APP\
