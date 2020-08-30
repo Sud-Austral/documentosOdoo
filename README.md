@@ -14,6 +14,8 @@ Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la 
 Siguiente
 
 ![](App.PNG)\
+Construimos el modelo\
+![](Model.PNG)\
 
 ************************************************************
 Crear APP\
