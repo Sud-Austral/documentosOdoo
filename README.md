@@ -21,7 +21,9 @@ Edit Menu permite asociar modelos a nuestra aplicacion y establecer jerarquias e
 ## Taller de creación de una DB en Odoo
 
 
-1 Creción del módulo DataintAPP
+1 Creación del módulo DataintAPP
+
+2 El modelo lógico de la BdeD
 *************************************************************
 ## Formulario
 
