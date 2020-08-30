@@ -3,7 +3,8 @@
 ## Taller Studio
 
 1 
-https://www.odoo.com/es_ES/\
+https://www.odoo.com/es_ES/
+
 Comienza ahora\
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
