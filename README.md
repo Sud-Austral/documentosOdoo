@@ -1,5 +1,14 @@
 # Documentación Odoo
+*************************************************************
+## Taller STUDIO
 
+1 Crear APP
+
+2 Crear menús asociados a modelos.
+
+*************************************************************
+## Taller de creación de una DB en Odoo
+*************************************************************
 ## Formulario
 
 C:\Users\usuario>cd ../..
