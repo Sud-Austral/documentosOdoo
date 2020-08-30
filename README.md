@@ -3,6 +3,10 @@
 ## Taller STUDIO
 
 1 Crear APP
+Odoo Studio, NEXT, materialdi001, NEXT
+
+Crear el nombre del modeloÑ di Request,
+  CREATE YOUR APP
 
 2 Crear menús asociados a modelos.
 
