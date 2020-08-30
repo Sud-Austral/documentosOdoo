@@ -2,7 +2,10 @@
 *************************************************************
 ## Taller Studio
 
-1 Crear APP\
+1 
+https://www.odoo.com/es_ES/\
+Comienza ahora\
+Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
 
 Crear el nombre del modelo: di Request,
