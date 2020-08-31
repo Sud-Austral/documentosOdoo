@@ -38,15 +38,18 @@ Podemos hacer nuestro primer CRUD.
 
 Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
 
+************************************************************
 
 
 ### 3 Agregar campos a formularios
+************************************************************
 
 ### 4 Configurar la plataforma de entrenamiento.
 
 
 *************************************************************
 ## Taller de creación de una DB en Odoo
+************************************************************
 
 
 1 Creación del módulo DataintAPP
