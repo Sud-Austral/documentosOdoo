@@ -116,11 +116,17 @@ CREATE
 Name:           di SEQ.\
 Sequence Code:  material.request.seq
 
-Prefix: \
-Sequence Size\
-Step\
-Next Number\
-SAVE\
+Prefix: di/%(year)s\
+Sequence Size 5\
+Step  1\
+Next Number 1\
+SAVE
+
+Volvamos a di Request, Studio, Automations, y ejecutamos el código python:\
+record['x_name']=env['ir.sequence'].next_by_code('material.request.seq')\
+x_name es el nombre técnico de nuestro registro de di Request.
+
+Creamos un nuevo registro debe generarse el autoincremental.
 
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
