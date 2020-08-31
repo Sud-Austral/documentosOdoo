@@ -56,6 +56,11 @@ Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarqui
 
 ### 5 Construir formularios y grillas.
 
+5.1 Many2one\
+5.2 Automatizacion\
+5.3 Create by y Created on\
+5.4 Grillas para modelos\
+5.5 Modificaciones
 ### 6 Botones y acciones de servidores.
 
 *************************************************************
