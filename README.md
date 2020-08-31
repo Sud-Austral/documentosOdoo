@@ -30,7 +30,7 @@ Llegamos al espacio de trabajo Studio. Salimos.
 <img src="Ima-odoo/Studio2.PNG" width="500">
 </p>
 
-Podemos hacer nustro primer CRUD.
+Podemos hacer nuestro primer CRUD.
 ************************************************************
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
