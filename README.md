@@ -59,6 +59,13 @@ Agregamos Note, Created by y Created on.
 ************************************************************
 
 ### 4 Configurar la plataforma de entrenamiento.
+
+Configuremos multiples unidades de medida y agreguemos productos a Inventario.\
+Damos click a App Inventory\
+Master data, Products, Create\
+Un subrayado grueso en odoo implica campo mandatory
+
+
 4.1 Establecer multi udem y crear/importar productos.\
 4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía\
 4.3 Establecer multiples Warehouses y crear una nueva Warehouse
