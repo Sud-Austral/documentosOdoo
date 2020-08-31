@@ -70,9 +70,9 @@ Vamos a Inventory Products.\
 Vamos a Inventory, Configuration, Settings, Products, y seleccionamos Units of measure.\
 Ahora en Inventory aparece UoM Categories y UoM, asi que en Unit of Measure Categories puedes crear una nueva unidad de medida: Categoria: Area y salvar.\
 Vamos a UoM, Filters, Category contains Unit, \
-en UoM, Filters, Category contains Area, APPLY\
+en UoM, Filters, Category contains Area, APPLY
 
-paciencia\
+paciencia
 
 Creamos una nueva unidad de medida\
 Unit of measure: m2\
