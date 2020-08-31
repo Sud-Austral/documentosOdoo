@@ -124,9 +124,10 @@ SAVE
 
 Volvamos a di Request, Studio, Automations, y ejecutamos el código python:\
 record['x_name']=env['ir.sequence'].next_by_code('material.request.seq')\
-x_name es el nombre técnico de nuestro registro de di Request.
-
-Creamos un nuevo registro debe generarse el autoincremental.
+x_name es el nombre técnico de nuestro registro de di Request.\
+Creamos un nuevo registro debe generarse el autoincremental.\
+Buscamos secuencias con Ajustes, Technical, Sequences y aparecerá material.request.seq\
+En Views podemos cambiar el orden de las columnas.\
 
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
