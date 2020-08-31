@@ -104,8 +104,8 @@ Vamos a Studio y le sacamos al label principal el ticket en required y lo hacemo
 Damos click en Automations, CREATE.
 
 
-action name:        id Request
-Trigger Condition:  On Creation
+action name:        id Request\
+Trigger Condition:  On Creation\
 Action to Do:       Execute code Python
 
 Vamos al modo desarrollador\
