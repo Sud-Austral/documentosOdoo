@@ -101,10 +101,15 @@ Vamos a la View y agregamos Department.
 Queremos generar un campo autoincremental automatizado en id Request.\
 Vamos a di Request, borremos todos los registros, que son Departamentos.\
 Vamos a Studio y le sacamos al label principal el ticket en required y lo hacemos read only.\
-Damos clck en Automations, CREATE.
+Damos click en Automations, CREATE.
 
 
-
+action name:        id Request
+Trigger Condition:  On Creation
+Action to Do:       Execute code Python
+$$
+\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+$$     
 
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
