@@ -107,9 +107,15 @@ Damos click en Automations, CREATE.
 action name:        id Request
 Trigger Condition:  On Creation
 Action to Do:       Execute code Python
-$$
-\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
-$$     
+
+Vamos al modo desarrollador\
+Technical\
+Sequences\
+CREATE\
+
+Name:
+
+
 
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
