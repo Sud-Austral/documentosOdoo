@@ -25,12 +25,12 @@ Construimos el modelo
 <img src="Model.PNG" width="500">
 </p>
 
-Llegamos al espacio de trabajop Studio. Salimos.
+Llegamos al espacio de trabajo Studio. Salimos.
 <p align="center">
 <img src="Ima-odoo/Studio2.PNG" width="500">
 </p>
 
-
+Podemos hacer nustro primer CRUD.
 ************************************************************
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
