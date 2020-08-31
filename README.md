@@ -2,41 +2,60 @@
 *************************************************************
 ## Taller Studio
 
-1 
+### 1 Construyendo nuestra primera App y Modelo.
 https://www.odoo.com/es_ES/
 Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
-Continuar\
+Continuar
 
-Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
+Agregamos el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.
 
-![](Studio.PNG)\
-Siguiente
+Ingresamos directamente a Studio
+<p align="center">
+<img src="Studio.PNG" width="500">
+</p>
 
-![](App.PNG)\
-Construimos el modelo\
-![](Model.PNG)\
+Creamos nuestra aplicacion
+<p align="center">
+<img src="App.PNG" width="500">
+</p>
 
+Construimos el modelo
+<p align="center">
+<img src="Model.PNG" width="500">
+</p>
 
-![](App.PNG)\
+Llegamos al espacio de trabajo Studio. Salimos.
+<p align="center">
+<img src="Ima-odoo/Studio2.PNG" width="500">
+</p>
+
+Podemos hacer nuestro primer CRUD.
 ************************************************************
-Crear APP\
-Odoo Studio, NEXT, materialdi001, NEXT
 
-Crear el nombre del modelo: di Request,
-  CREATE YOUR APP y tenemos el CRUD sobre nuestra primera tabla listo!
 
-2 Crear menús asociados a modelos.
+### 2 Menus y Modelos multiples.
+
 Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
 
+************************************************************
 
-3 Agregar campos a formularios
 
-4 Configurar la plataforma de entrenamiento.
+### 3 Agregar campos a formularios
+************************************************************
 
+### 4 Configurar la plataforma de entrenamiento.
+4.1 Establecer multi udem y crear/importar productos.\
+4.2 Instalr la aplicacion de trabajadores y crear departamentos de la compania\
+4.3 Establecer multiples Warehouses y crear una nueva Warehouse
+
+### 5 Construir formularios y grillas.
+
+### 6 Botones y acciones de servidores.
 
 *************************************************************
 ## Taller de creación de una DB en Odoo
+************************************************************
 
 
 1 Creación del módulo DataintAPP
