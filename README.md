@@ -5,7 +5,7 @@ Modo desarrollador por URL
 </p>
 
 *************************************************************
-## Taller Studio ![](studio_icon.jpg)
+## Taller Studio ![](Ima-odoo/studio_icon.jpg)
 ************************************************************
 ************************************************************
 ### 1 Construyendo nuestra primera App y Modelo.
