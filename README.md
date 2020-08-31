@@ -53,11 +53,13 @@ Forms\
 Jugamos con columnas y tabs.\
 Agregamos un texto llamado Note.\
 
+Seleccionar de Views, Múltiple Records Views, List.
+
 ************************************************************
 
 ### 4 Configurar la plataforma de entrenamiento.
 4.1 Establecer multi udem y crear/importar productos.\
-4.2 Instalr la aplicacion de trabajadores y crear departamentos de la compania\
+4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía\
 4.3 Establecer multiples Warehouses y crear una nueva Warehouse
 
 ************************************************************
