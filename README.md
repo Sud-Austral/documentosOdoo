@@ -10,7 +10,7 @@ Continuar\
 
 Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
 
-![](Studio.PNG)\
+![](Studio.PNG){:height="36px" width="36px"}\
 Siguiente
 
 ![](App.PNG)\
