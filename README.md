@@ -1,4 +1,9 @@
 # Documentación Odoo
+Modo desarrollador por URL
+<p align="center">
+<img src="web?debug=1" width="500" font color="red">
+</p>
+
 *************************************************************
 ## Taller Studio
 
