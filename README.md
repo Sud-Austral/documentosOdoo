@@ -2,7 +2,7 @@
 *************************************************************
 ## Taller Studio
 
-1 
+1 Construyemdo nuestra priemra App y Modelo.
 https://www.odoo.com/es_ES/
 Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
