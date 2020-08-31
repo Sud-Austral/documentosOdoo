@@ -171,9 +171,9 @@ Cometimos un error. Hacer invisible el booleano.
 
 ### 6 Botones y Acciones de Servidor.
 ************************************************************
-6.1 Crear botones
-6.2 Acciones de servidor
-6.3 Primera accion de servidor
+6.1 Crear botones\
+6.2 Acciones de servidor\
+6.3 Primera accion de servidor\
 6.4 Ocultar el boton de confirmacion
 
 
