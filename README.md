@@ -91,7 +91,14 @@ Importaremos una hoja excel\
 Import\
 Load the file
 
-4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía\
+Code: Internal reference\
+Product Name: Name\
+Type: Product type\
+UdM: Unit of Measure\ Sirve activo.
+IMPORTAR
+
+4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía
+
 4.3 Establecer multiples Warehouses y crear una nueva Warehouse
 
 ************************************************************
