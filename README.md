@@ -65,6 +65,21 @@ Damos click a App Inventory\
 Master data, Products, Create\
 Un subrayado grueso en odoo implica campo mandatory
 
+Creamos un nuevo producto: datos001 y Salvamos.\
+Vamos a Inventory Products.\
+Vamos a Inventory, Configuration, Settings, Products, y seleccionamos Units of measure.\
+Ahora en Inventory aparece UoM Categories y UoM, asi que en Unit of Measure Categories puedes crear una nueva unidad de medida: Categoria: Area y salvar.\
+Vamos a UoM, Filters, Category contains Unit, \
+en UoM, Filters, Category contains Area, APPLY\
+
+paciencia\
+
+Creamos una nueva unidad de medida\
+Unit of measure: m2\
+Category: Area
+
+
+
 
 4.1 Establecer multi udem y crear/importar productos.\
 4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía\
