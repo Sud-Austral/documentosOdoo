@@ -134,20 +134,28 @@ En Views podemos cambiar el orden de las columnas.
 Vamos a la vista crear de nuestro modelo y le damos click a studio.\
 Agregamos un campo Selection y le asignamos dos valores: borrador y confirmado y CONFIRM, le damos el label de Status y lo hacemos Read only y Default value, Draft.\
 Anadimos los campos Created by y Created on y cerramos Studio.\
-Vamos a la vista del modelo y anadimos las columanas Status,  Created on y Created by, cerramos la vista.
+Vamos a la vista del modelo y anadimos las columnas Status,  Created on y Created by, cerramos la vista.
 
 5.4 Grillas para modelos
 
-Cremso un Modelo para los registros de la grilla\
+Creemos un Modelo para los registros de la grilla llamado basesdi\
 Vamos a new di Request\
-Vamos a Studio y Creamos un Nuevo Menu
+Vamos a Studio y Creamos un Nuevo Menu\
+*Name : basesdi\
+*Model : basesdi\
+CONFIRM, CONFIRM
+
+Traemos a un registro de nuestro modelo una Many2one, Relation basesdi.\
+Traemos a un registro de nuestro modelo una Related Field, Unit of measure, Unit of measure, CONFIRM.\
+Le cambiamos la label a UoM\
+Deberia cargar perfecto.
 
 
 5.5 Modificaciones
 
 ************************************************************
 
-### 6 Botones y acciones de servidores.
+### 6 Botones y Acciones de Servidor.
 
 *************************************************************
 ## Taller de creación de una DB en Odoo I
