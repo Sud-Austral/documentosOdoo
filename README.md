@@ -21,8 +21,8 @@ Ingresamos directamente a Studio
 <img src="Studio.PNG" width="500">
 </p>
 
-Creamos nuestra aplicación
-Dá click a New App\
+Creamos nuestra aplicación\
+Dá click a New App
 <p align="center">
 <img src="App.PNG" width="500">
 </p>
