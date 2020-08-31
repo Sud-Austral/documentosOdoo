@@ -6,7 +6,7 @@
 https://www.odoo.com/es_ES/
 Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
-Continuar\
+Continuar
 
 Agregamos el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
 
