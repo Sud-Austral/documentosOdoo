@@ -96,11 +96,16 @@ Vamos al modelo , Studio  y llevamos una relacion Many2one , se nos pedirá a qu
 Retornemos al modelo y podremos generar registros con un campo de departamento.\\
 Vamos a la View y agregamos Department.
 
-
-
-
-
 5.2 Automatizacion\
+
+Queremos generar un campo autoincremental automatizado en id Request.\
+Vamos a di Request, borremos todos los registros, que son Departamentos.\
+Vamos a Studio y le sacamos al label principal el ticket en required y lo hacemos read only.\
+Damos clck en Automations, CREATE.\
+
+
+
+
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
 5.5 Modificaciones
