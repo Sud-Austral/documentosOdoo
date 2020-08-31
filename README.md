@@ -48,7 +48,10 @@ Creamos una jerarquía creando un nuevo elemento de menu sin asociarlo a modelo 
 
 ************************************************************
 ### 3 Agregar campos a formularios
-
+Vamos a General Views\
+Forms\
+Jugamos con columnas y tabs.\
+Agregamos un texto llamado Note.\
 
 ************************************************************
 
