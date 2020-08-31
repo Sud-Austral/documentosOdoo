@@ -150,7 +150,18 @@ Traemos a un registro de nuestro modelo una Related Field, Unit of measure, Unit
 Le cambiamos la label a UoM\
 Deberia cargar perfecto.
 
+Hagamos Name Invisible
+
 Agregamos un Text Note y un Decimal Number Qty.
+
+que falta? hay que ingresar basesdi a di Request.\
+Agreguemos en Views de di Request, basesdi, Qty., UoM y removemos Name.
+
+En di Request no podemos agregar una relacion One2many, pues se debe tener una Many2one en basesdi en relacion con di Request. Ahora lo podemos hacer y tenemos la grilla funcionando perfecto. Puedo editarla dando click sobre ella.\
+
+Cometimos un error. Hacer invisible el booleano.
+
+
 
 
 
