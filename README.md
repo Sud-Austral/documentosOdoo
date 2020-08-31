@@ -113,8 +113,10 @@ Technical\
 Sequences\
 CREATE
 
-Name:
+Name:           di SEQ.\
+Sequence Code:  material.request.seq
 
+Prefix:         
 
 
 5.3 Create by y Created on\
