@@ -45,8 +45,8 @@ Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarqui
 ************************************************************
 
 ### 4 Configurar la plataforma de entrenamiento.
-4.1 Establecer multi udem y crear/importar productos.
-4.2 Instalr la aplicacion de trabajadores y crear departamentos de la compania
+4.1 Establecer multi udem y crear/importar productos.\
+4.2 Instalr la aplicacion de trabajadores y crear departamentos de la compania\
 4.3 Establecer multiples Warehouses y crear una nueva Warehouse
 
 ### 5 Construir formularios y grillas.
