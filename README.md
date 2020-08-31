@@ -127,10 +127,22 @@ record['x_name']=env['ir.sequence'].next_by_code('material.request.seq')\
 x_name es el nombre técnico de nuestro registro de di Request.\
 Creamos un nuevo registro debe generarse el autoincremental.\
 Buscamos secuencias con Ajustes, Technical, Sequences y aparecerá material.request.seq\
-En Views podemos cambiar el orden de las columnas.\
+En Views podemos cambiar el orden de las columnas.
 
 5.3 Create by y Created on\
-5.4 Grillas para modelos\
+
+Vamos a la vista crear de nuestro modelo y le damos click a studio.\
+Agregamos un campo Selection y le asignamos dos valores: borrador y confirmado y CONFIRM, le damos el label de Status y lo hacemos Read only y Default value, Draft.\
+Anadimos los campos Created by y Created on y cerramos Studio.\
+Vamos a la vista del modelo y anadimos las columanas Status,  Created on y Created by, cerramos la vista.
+
+5.4 Grillas para modelos
+
+Cremso un Modelo para los registros de la grilla\
+Vamos a new di Request\
+Vamos a Studio y Creamos un Nuevo Menu
+
+
 5.5 Modificaciones
 
 ************************************************************
