@@ -90,7 +90,7 @@ Load the file
 ************************************************************
 
 ### 5 Construir formularios y grillas.
-
+************************************************************
 5.1 Many2one\
 Vamos al modelo , Studio  y llevamos una relacion Many2one , se nos pedirá a que modelo asociar. Damos click a HD department y cambiamos su label.
 Retornemos al modelo y podremos generar registros con un campo de departamento.\
@@ -157,7 +157,7 @@ Agregamos un Text Note y un Decimal Number Qty.
 que falta? hay que ingresar basesdi a di Request.\
 Agreguemos en Views de di Request, basesdi, Qty., UoM y removemos Name.
 
-En di Request no podemos agregar una relacion One2many, pues se debe tener una Many2one en basesdi en relacion con di Request. Ahora lo podemos hacer y tenemos la grilla funcionando perfecto. Puedo editarla dando click sobre ella.\
+En di Request no podemos agregar una relacion One2many, pues se debe tener una Many2one en basesdi en relacion con di Request. Ahora lo podemos hacer y tenemos la grilla funcionando perfecto. Puedo editarla dando click sobre ella.
 
 Cometimos un error. Hacer invisible el booleano.
 
@@ -170,6 +170,14 @@ Cometimos un error. Hacer invisible el booleano.
 ************************************************************
 
 ### 6 Botones y Acciones de Servidor.
+************************************************************
+6.1 Crear botones
+6.2 Acciones de servidor
+6.3 Primera accion de servidor
+6.4 Ocultar el boton de confirmacion
+
+
+
 
 *************************************************************
 ## Taller de creación de una DB en Odoo I
