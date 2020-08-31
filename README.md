@@ -150,6 +150,9 @@ Traemos a un registro de nuestro modelo una Related Field, Unit of measure, Unit
 Le cambiamos la label a UoM\
 Deberia cargar perfecto.
 
+Agregamos un Text Note y un Decimal Number Qty.
+
+
 
 5.5 Modificaciones
 
