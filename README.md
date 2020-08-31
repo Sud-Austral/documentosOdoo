@@ -10,8 +10,10 @@ Continuar\
 
 Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
 
-![](Studio.PNG){:height="36px" width="36px"}\
+![](Studio.PNG)\
 Siguiente
+
+<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
 
 ![](App.PNG)\
 Construimos el modelo\
