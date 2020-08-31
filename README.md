@@ -51,9 +51,10 @@ Creamos una jerarquía creando un nuevo elemento de menu sin asociarlo a modelo 
 Vamos a General Views\
 Forms\
 Jugamos con columnas y tabs.\
-Agregamos un texto llamado Note.\
+Agregamos un texto llamado Note.
 
-Seleccionar de Views, Múltiple Records Views, List.
+Seleccionamos Views, Múltiple Records Views, List.\
+Agregamos Note, Created by y Created on.
 
 ************************************************************
 
