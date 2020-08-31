@@ -42,8 +42,10 @@ Podemos hacer nuestro primer CRUD.
 
 
 ### 2 Menús y Modelos múltiples.
-
-Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
+En di Request damos click a Studio y en
+Edit Menu. que con New Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
+Introduce un nombre y selecciona un modelo, dale a CONFIRM.
+Creamos una jerarquía creando un nuevo elemento de menu sin asociarlo a modelo alguno y agrupándolo.
 
 ************************************************************
 
