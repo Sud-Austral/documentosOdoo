@@ -116,8 +116,11 @@ CREATE
 Name:           di SEQ.\
 Sequence Code:  material.request.seq
 
-Prefix:         
-
+Prefix: 
+Sequence Size
+Step
+Next Number
+SAVE
 
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
