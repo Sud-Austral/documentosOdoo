@@ -43,7 +43,7 @@ Podemos hacer nuestro primer CRUD.
 ### 2 Menús y Modelos múltiples.
 En di Request damos click a Studio y en
 Edit Menu, que con New Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
-Introduce un nombre y selecciona un modelo, dale a CONFIRM.
+Introduce un nombre y selecciona un modelo: Pedido de compra, dale a CONFIRMAR.
 Creamos una jerarquía creando un nuevo elemento de menu sin asociarlo a modelo alguno y agrupándolo.
 
 ************************************************************
@@ -61,16 +61,21 @@ Agregamos Note, Created by y Created on.
 ### 4 Configurar la plataforma de entrenamiento.
 
 Configuremos multiples unidades de medida y agreguemos productos a Inventario.\
+Vamos al inicio.\
 Damos click a App Inventory\
 Master data, Products, Create\
 Un subrayado grueso en odoo implica campo mandatory
 
-Creamos un nuevo producto: datos001 y Salvamos.\
+Creamos un nuevo producto: datos001 y Guardamos.\
 Vamos a Inventory Products.\
 Vamos a Inventory, Configuration, Settings, Products, y seleccionamos Units of measure.\
-Ahora en Inventory aparece UoM Categories y UoM, asi que en Unit of Measure Categories puedes crear una nueva unidad de medida: Categoria: Area y salvar.\
-Vamos a UoM, Filters, Category contains Unit, \
-en UoM, Filters, Category contains Area, APPLY
+
+
+
+Ahora en Inventory aparece UdM Categories y UdM, asi que en Unit of Measure Categories puedes crear una nueva unidad de medida: Categoria: Area y salvar.\
+
+% Vamos a UoM, Filters, Category contains Unit, \
+% en UoM, Filters, Category contains Area, APPLY
 
 paciencia
 
@@ -79,6 +84,8 @@ Unit of measure: m2\
 Category: Area\
 Save.
 
+Vamos a UdM Unit of measure cambiela a Piece
+*************************************************************
 Vamos a Master Data Products.\
 Importaremos una hoja excel\
 Import\
