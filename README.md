@@ -32,19 +32,17 @@ Llegamos al espacio de trabajo Studio. Salimos.
 
 Podemos hacer nuestro primer CRUD.
 ************************************************************
-Crear APP\
-Odoo Studio, NEXT, materialdi001, NEXT
 
-Crear el nombre del modelo: di Request,
-  CREATE YOUR APP y tenemos el CRUD sobre nuestra primera tabla listo!
 
-2 Crear menús asociados a modelos.
+### 2 Menus y Modelos multiples.
+
 Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
 
 
-3 Agregar campos a formularios
 
-4 Configurar la plataforma de entrenamiento.
+### 3 Agregar campos a formularios
+
+### 4 Configurar la plataforma de entrenamiento.
 
 
 *************************************************************
