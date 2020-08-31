@@ -17,8 +17,8 @@ Siguiente
 Construimos el modelo\
 ![](Model.PNG)\
 
-clientes/registro.html
-![](../Studio2.PNG)\
+
+![](Ima-odoo/Studio2.PNG)\
 ************************************************************
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
