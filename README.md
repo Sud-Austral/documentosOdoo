@@ -76,9 +76,11 @@ paciencia\
 
 Creamos una nueva unidad de medida\
 Unit of measure: m2\
-Category: Area
+Category: Area\
+Save.
 
-
+Vamos a Master Data Products.\
+Importaremos una hoja excel
 
 
 4.1 Establecer multi udem y crear/importar productos.\
