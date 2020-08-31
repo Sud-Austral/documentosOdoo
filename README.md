@@ -5,7 +5,7 @@ Modo desarrollador por URL
 </p>
 
 *************************************************************
-## Taller Studio ![](dspython.png)
+## Taller Studio ![](studio_icon.jpg)
 ************************************************************
 ************************************************************
 ### 1 Construyendo nuestra primera App y Modelo.
