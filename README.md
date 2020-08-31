@@ -111,7 +111,7 @@ Action to Do:       Execute code Python
 Vamos al modo desarrollador\
 Technical\
 Sequences\
-CREATE\
+CREATE
 
 Name:
 
