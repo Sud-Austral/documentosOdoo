@@ -99,6 +99,9 @@ IMPORTAR
 
 4.2 Instalar la aplicación de trabajadores y crear departamentos de la companía
 
+
+
+
 4.3 Establecer multiples Warehouses y crear una nueva Warehouse
 
 ************************************************************
