@@ -8,6 +8,7 @@ Modo desarrollador por URL
 ## Taller Studio
 
 ### 1 Construyendo nuestra primera App y Modelo.
+Obtén una base de datos Odoo para practicar
 https://www.odoo.com/es_ES/
 Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
