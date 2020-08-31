@@ -92,7 +92,9 @@ Load the file\
 ### 5 Construir formularios y grillas.
 
 5.1 Many2one\
-
+Vamos al modelo , Studio  y llevamos una relacion Many2one , se nos pedirá a que modelo asociar. Damos click a HD department y cambiamos su label.\
+Retornemos al modelo y podremos generar registros con un campo de departamento.\\
+Vamos a la View y agregamos Department.
 
 
 
