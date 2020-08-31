@@ -92,8 +92,7 @@ Load the file\
 ### 5 Construir formularios y grillas.
 
 5.1 Many2one\
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-<span style="color:red">some **This is Red Bold.** text</span>
+
 
 
 
