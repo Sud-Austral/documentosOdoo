@@ -92,6 +92,13 @@ Load the file\
 ### 5 Construir formularios y grillas.
 
 5.1 Many2one\
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
+
+
+
+
+
 5.2 Automatizacion\
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
