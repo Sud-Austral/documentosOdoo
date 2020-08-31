@@ -5,7 +5,7 @@ Modo desarrollador por URL
 </p>
 
 *************************************************************
-## Taller Studio ![](Ima-odoo/studio_icon.jpg)
+## Taller Studio I ![](Ima-odoo/studio_icon.jpg)
 ************************************************************
 ************************************************************
 ### 1 Construyendo nuestra primera App y Modelo.
@@ -128,7 +128,7 @@ Prefix:
 ### 6 Botones y acciones de servidores.
 
 *************************************************************
-## Taller de creación de una DB en Odoo
+## Taller de creación de una DB en Odoo I
 ************************************************************
 ************************************************************
 
