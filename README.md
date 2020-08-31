@@ -8,20 +8,24 @@ Comienza ahora\
 Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
 Continuar\
 
-Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
+Agregamos el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
 
+Ingresamos directamente a Studio
 <p align="center">
 <img src="Studio.PNG" width="500">
 </p>
 
+Creamos nuestra aplicacion
 <p align="center">
 <img src="App.PNG" width="500">
 </p>
-Construimos el modelo\
+
+Construimos el modelo
 <p align="center">
 <img src="Model.PNG" width="500">
 </p>
 
+Llegamos al espacio de trabajop Studio. Salimos.
 <p align="center">
 <img src="Ima-odoo/Studio2.PNG" width="500">
 </p>
