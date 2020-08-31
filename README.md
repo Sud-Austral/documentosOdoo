@@ -21,7 +21,8 @@ Ingresamos directamente a Studio
 <img src="Studio.PNG" width="500">
 </p>
 
-Creamos nuestra aplicacion
+Creamos nuestra aplicación
+Dá click a New App\
 <p align="center">
 <img src="App.PNG" width="500">
 </p>
@@ -40,7 +41,7 @@ Podemos hacer nuestro primer CRUD.
 ************************************************************
 
 
-### 2 Menus y Modelos multiples.
+### 2 Menús y Modelos múltiples.
 
 Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarquias.
 
@@ -62,6 +63,7 @@ Edit Menu permite asociar modelos a nuestra aplicación y establecerles jerarqui
 5.3 Create by y Created on\
 5.4 Grillas para modelos\
 5.5 Modificaciones
+
 ### 6 Botones y acciones de servidores.
 
 *************************************************************
