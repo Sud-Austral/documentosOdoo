@@ -9,7 +9,11 @@ Selecciona Accounting, Purchase, Inventory, Web, CRM,  y Studio.\
 Continuar\
 
 Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la empresa para tener 10 meses de prueba.\
+
+<p align="center">
 <img src="Studio.PNG" width="200">
+</p>
+
 ![](Studio.PNG)\
 Siguiente
 
