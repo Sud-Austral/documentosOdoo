@@ -1,8 +1,7 @@
 # Documentación Odoo
 Modo desarrollador por URL
- <strong>web?debug=1</strong> 
 <p align="center">
-<web?debug=1 width="500" font color="red">
+<strong>web?debug=1</strong> 
 </p>
 
 *************************************************************
