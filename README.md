@@ -14,17 +14,19 @@ Agregar el prefijo training- (training-dataintelligence-001) en el nombre de la 
 <img src="Studio.PNG" width="500">
 </p>
 
-
-Siguiente
-
-
-
-![](App.PNG)\
+<p align="center">
+<img src="App.PNG" width="500">
+</p>
 Construimos el modelo\
-![](Model.PNG)\
+<p align="center">
+<img src="Model.PNG" width="500">
+</p>
+
+<p align="center">
+<img src="Ima-odoo/Studio2.PNG" width="500">
+</p>
 
 
-![](Ima-odoo/Studio2.PNG)\
 ************************************************************
 Crear APP\
 Odoo Studio, NEXT, materialdi001, NEXT
