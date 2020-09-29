@@ -1,0 +1,5 @@
+"<Path_to_python.exe in the Odoo folder>" "<Path_to_odoo-bin>" scaffold "<Path_to_addons_folder>"
+
+"c:\Program Files (x86)\Odoo 11.0\python\python.exe" "C:\Program Files (x86)\Odoo 11.0\server\odoo-bin" scaffold <module name here> "C:\Program Files (x86)\Odoo 11.0\server\odoo\addons"
+
+C:\Program Files (x86)\Odoo 13.0\python>python "C:\Program Files (x86)\Odoo 13.0\server\odoo-bin" scaffold example2 "C:\Users\limc_\Documents\NuevaCarpeta"
