@@ -1,4 +1,7 @@
 "C:\Program Files (x86)\Odoo 13.0\python\python.exe" odoo-bin -c odoo.conf
 
 
+http://52.173.85.103:8069/web/database/selector
+
+
 
