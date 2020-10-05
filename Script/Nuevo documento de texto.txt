@@ -1,0 +1,28 @@
+#odoo server
+upstream odoo {
+ server 127.0.0.1:8069;
+}
+upstream odoochat {
+ server 127.0.0.1:8072;
+}
+
+# http -> https
+server {
+   listen 80;
+   server_name wwwwwwwwwwwwwww.centralus.cloudapp.azure.com;
+}
+
+server {
+ listen 443;
+ server_name wwwwwwwwwwwwwww.centralus.cloudapp.azure.com;
+ proxy_read_timeout 720s;
+ proxy_connect_timeout 720s;
+ proxy_send_timeout 720s;
+
+
+
+ # Redirect requests to odoo backend server
+ location / {
+   proxy_redirect off;
+ }
+}
